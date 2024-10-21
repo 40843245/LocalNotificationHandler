@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalNotificationHandler</string>
+    <string name="cancel_notification_button_text">Cancel Notification</string>
+    <string name="notification_not_granted">Post Notification not granted</string>
+</resources>
